@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kushal Raj Roy
 
-### I am a biochemist, computational biologist, and founder of **Genoproteomics** — a precision medicine venture bridging multi-omics, structural biology, and AI. My research sits at the intersection of **graph neural networks**, **single-molecule biophysics**, and **cancer genomics**, with a focus on building interpretable, publication-quality tools for complex biological systems. I am passionate about open science, mentorship, and advancing computational biology in South Asia and beyond.
+### I am a biochemist, computational biologist, and founder of **Genoproteomics** — a precision medicine venture bridging multi-omics, structural biology, and AI. My research sits at the intersection of **graph neural networks**, **single-molecule biophysics**, and **cancer genomics**, with a focus on building interpretable, publication-quality tools for complex biological systems. I am passionate about open science, mentorship, and advancing computational biology.
 
 [![kroy3](https://komarev.com/ghpvc/?username=kroy3&color=brightgreen)](https://github.com/kroy3)
 
