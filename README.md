@@ -14,7 +14,7 @@
 - 🏆 Lead/single author on publications in computational chemistry, cancer genomics, and bioinformatics (EuroBiotech Journal, APL Machine Learning, and more).
 - ⚡ Hobbies: When I'm not at the bench or the terminal, I can be found exploring music production, watching science documentaries, reading about the history of molecular biology, or working on creative visual projects.
 - 🌏 Originally from **Bangladesh**, based in **Houston, TX**.
-- 🌐 More about me: [LinkedIn](https://linkedin.com/in/kroy3) · [ORCID](https://orcid.org/)
+- 🌐 More about me: [LinkedIn](https://linkedin.com/in/kroy3) · [ORCID]((https://orcid.org/0000-0002-4664-7462))
 
 ---
 
