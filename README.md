@@ -6,12 +6,12 @@
 
 ---
 
-- 🔭 I'm currently working on **OmicsGraphNet** — a multi-omics PTSD classifier using graph attention networks, and **ORBITS** — deep learning for chromatin feature prediction (Aiden Lab, Baylor/Rice).
+- 🔭 I'm currently working on **OmicsGraphNet** — a multi-omics PTSD classifier using graph attention networks.
 - 🌱 I'm currently learning **PyTorch Geometric, Snakemake, and scRNA-seq analysis pipelines.**
 - 🧬 Research interests: **Structural Biology of Translational GTPases · Multi-Omics Cancer Genomics · Graph Neural Networks · Drug Discovery · Single-Molecule FRET**
 - 👨‍💻 All of my projects are available at [Genoproteomics](https://github.com/kroy3).
 - 🤝 Affiliations: **Gulf Coast Consortia (Steering Committee)** · **University of Houston** · **Genoproteomics**
-- 🏆 Lead/single author on publications in computational chemistry, cancer genomics, and bioinformatics (EuroBiotech Journal, ACS Central Science, APL Machine Learning, and more).
+- 🏆 Lead/single author on publications in computational chemistry, cancer genomics, and bioinformatics (EuroBiotech Journal, APL Machine Learning, and more).
 - ⚡ Hobbies: When I'm not at the bench or the terminal, I can be found exploring music production, watching science documentaries, reading about the history of molecular biology, or working on creative visual projects.
 - 🌏 Originally from **Bangladesh**, based in **Houston, TX**.
 - 🌐 More about me: [LinkedIn](https://linkedin.com/in/kroy3) · [ORCID](https://orcid.org/)
