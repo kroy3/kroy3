@@ -57,5 +57,5 @@
 ## 📬 Connect with Me
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)](https://linkedin.com/in/kroy3)
-[![ORCID]([https://img.icons8.com/windows/64/000000/orcid.png)](https://orcid.org/](https://orcid.org/0000-0002-4664-7462))
+[![ORCID]([https://img.icons8.com/windows/64/000000/orcid.png)](https://orcid.org/0000-0002-4664-7462)
 [![ResearchGate](https://img.icons8.com/windows/64/000000/researchgate.png)](https://www.researchgate.net/)
