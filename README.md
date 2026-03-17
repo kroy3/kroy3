@@ -14,7 +14,7 @@
 - 🏆 Lead/single author on publications in computational chemistry, cancer genomics, and bioinformatics (EuroBiotech Journal, APL Machine Learning, and more).
 - ⚡ Hobbies: When I'm not at the bench or the terminal, I can be found exploring music production, watching science documentaries, reading about the history of molecular biology, or working on creative visual projects.
 - 🌏 Originally from **Bangladesh**, based in **Houston, TX**.
-- 🌐 More about me: [LinkedIn](https://linkedin.com/in/kroy3) · [ORCID]((https://orcid.org/0000-0002-4664-7462))
+- 🌐 More about me: [LinkedIn](https://linkedin.com/in/kroy3) · [ORCID](https://orcid.org/0000-0002-4664-7462)
 
 ---
 
@@ -51,11 +51,3 @@
 - 🧬 **[RNAview](https://github.com/kroy3/RNAview)** — Python package for RNA structure visualization (submitted to JOSS).
 - ⚗️ **[ReactionForge](https://github.com/kroy3/ReactionForge)** — Temporal graph network for reaction prediction (submitted to ACS Central Science & AI Chem).
 - 🤖 **[ProteinFunctionTransformer](https://github.com/kroy3/ProteinFunctionTransformer)** — Protein function prediction with pretrained transformers (accepted, *EuroBiotech Journal*).
-
----
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)](https://linkedin.com/in/kroy3)
-[![ORCID]([https://img.icons8.com/windows/64/000000/orcid.png)](https://orcid.org/0000-0002-4664-7462)
-[![ResearchGate](https://img.icons8.com/windows/64/000000/researchgate.png)](https://www.researchgate.net/)
