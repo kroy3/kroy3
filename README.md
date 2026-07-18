@@ -18,7 +18,7 @@ I  build multi-omics integration methods, and I care about open science, reprodu
 - Extending graph attention and multi-omics integration methods, developed on cancer and chemical-reaction datasets, to inner ear transcriptomics.
 - Learning **PyTorch Geometric**, **Snakemake**, and production scRNA-seq workflows.
 
-<br clear="right" /><p align="center"><img src="kroy3/multiomics.png" width="620" alt="Multi-omics integration: layered molecular data converging through a graph network into clustered embeddings"/></p>
+<br clear="right" /><p align="center"><img src="multiomics.png" width="620" alt="Multi-omics integration: layered molecular data converging through a graph network into clustered embeddings"/></p>
 
 ## Education
 
