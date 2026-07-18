@@ -67,7 +67,7 @@ Full record: [ORCID 0000-0002-4664-7462](https://orcid.org/0000-0002-4664-7462)
 
 ## Outside the lab
 
-Music production and acoustic guitar, science documentaries, the history of molecular biology, and creative visual projects. Originally from Bangladesh, currently in Iowa City, IA.
+Playing guitar, science documentaries, the history of molecular biology, and creative visual projects. Originally from Bangladesh, currently in Iowa City, IA.
 
 ---
 
