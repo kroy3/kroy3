@@ -1,53 +1,86 @@
-# Hi 👋, I'm Kushal Raj Roy
+<img src="assets/sketch.png" align="right" width="170" alt="Kushal Raj Roy" />
 
-### I am a biochemist, computational biologist, and founder of **Genoproteomics** — a precision medicine venture bridging multi-omics, structural biology, and AI. My research sits at the intersection of **graph neural networks**, **single-molecule biophysics**, and **cancer genomics**, with a focus on building interpretable, publication-quality tools for complex biological systems. I am passionate about open science, mentorship, and advancing computational biology.
+# Kushal Raj Roy
 
-[![kroy3](https://komarev.com/ghpvc/?username=kroy3&color=brightgreen)](https://github.com/kroy3)
+**Computational biologist.** PhD student in the iBio program at the University of Iowa, working on single-nucleus RNA-seq of the cochlea. Founder of **Genoproteomics**, a precision medicine venture bridging multi-omics, structural biology, and AI.
 
----
+I build graph deep learning and multi-omics integration methods, and I care about open science, reproducibility, and mentorship.
 
-- 🔭 I'm currently working on **OmicsGraphNet** — a multi-omics PTSD classifier using graph attention networks.
-- 🌱 I'm currently learning **PyTorch Geometric, Snakemake, and scRNA-seq analysis pipelines.**
-- 🧬 Research interests: **Structural Biology of Translational GTPases · Multi-Omics Cancer Genomics · Graph Neural Networks · Drug Discovery · Single-Molecule FRET**
-- 👨‍💻 All of my projects are available at [Genoproteomics](https://github.com/kroy3).
-- 🤝 Affiliations: **Gulf Coast Consortia (Steering Committee)** · **University of Houston** · **Genoproteomics**
-- 🏆 Lead/single author on publications in computational chemistry, cancer genomics, and bioinformatics (EuroBiotech Journal, APL Machine Learning, and more).
-- ⚡ Hobbies: When I'm not at the bench or the terminal, I can be found exploring music production, watching science documentaries, reading about the history of molecular biology, or working on creative visual projects.
-- 🌏 Originally from **Bangladesh**, based in **Houston, TX**.
-- 🌐 More about me: [LinkedIn](https://linkedin.com/in/kroy3) · [ORCID](https://orcid.org/0000-0002-4664-7462)
+[LinkedIn](https://linkedin.com/in/kroy3) · [ORCID](https://orcid.org/0000-0002-4664-7462)
+
+<br clear="right" />
 
 ---
 
-## ⚡ GitHub Stats
+## Currently
+
+- Developing a QC and analysis pipeline for **single-nucleus RNA-seq in cochlear immunology**, characterizing cell-type-specific transcriptional response and immune cell populations in the inner ear.
+- Extending graph attention and multi-omics integration methods, developed on cancer and chemical-reaction datasets, to inner ear transcriptomics.
+- Learning **PyTorch Geometric**, **Snakemake**, and production scRNA-seq workflows.
+
+## Education
+
+| | |
+|---|---|
+| **University of Iowa** | PhD in progress, Integrated Biology (iBio) |
+| **University of Houston** | MSc, Biochemistry |
+| **Savitribai Phule Pune University** | BSc, Microbiology |
+
+---
+
+## Publications
+
+**Peer-reviewed journal articles**
+
+- **Protein Function Prediction with Pretrained Transformers: Performance, Pitfalls, and Practical Guidance.**
+  *Eurobiotech Journal*, 2026. [10.2478/ebtj-2026-0005](https://doi.org/10.2478/ebtj-2026-0005) · Scopus-indexed
+
+- **miRNA-mRNA Multi-omics Integration in Breast Cancer Staging.**
+  *Advances in Biomarker Sciences and Technology*, 2026. [10.1016/j.abst.2026.06.003](https://doi.org/10.1016/j.abst.2026.06.003)
+
+**Accepted / in press**
+
+- **ReactionForge: A Temporal Graph Network for Suzuki-Miyaura Cross-Coupling Yield Prediction.**
+  *International Journal of Complexity in Applied Science and Technology* (Inderscience), 2026.
+
+- **Machine Learning-Guided Catalyst Selection Reveals Nickel's Advantages Over Palladium in Suzuki-Miyaura Cross-Coupling.**
+  *International Journal of Complexity in Applied Science and Technology* (Inderscience), 2026.
+
+Full record: [ORCID 0000-0002-4664-7462](https://orcid.org/0000-0002-4664-7462)
+
+---
+
+## Selected Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **[ProteinFunctionTransformer](https://github.com/kroy3/ProteinFunctionTransformer)** | Protein function prediction with pretrained transformers, with benchmarking of common evaluation pitfalls | Published, *Eurobiotech Journal* |
+| **[DeepOmicsNet](https://github.com/kroy3/DeepOmicsNet)** | Graph attention network for multi-omics cancer subtyping on TCGA | Published output on breast cancer staging |
+| **[ReactionForge](https://github.com/kroy3/ReactionForge)** | Temporal graph network with cross-attention and evidential learning for reaction yield prediction | Accepted, *IJCAST* |
+| **[OmicsGraphNet](https://github.com/kroy3/OmicsGraphNet)** | Knowledge-enhanced graph attention network for multi-omics PTSD subtyping | Manuscript in preparation |
+
+---
+
+## Tools
+
+| | |
+|---|---|
+| **Languages** | Python · R · Bash · SQL |
+| **ML / Deep learning** | PyTorch · PyTorch Geometric · scikit-learn · HuggingFace Transformers |
+| **Single-cell & genomics** | Seurat · Scanpy · DESeq2 · STAR · Snakemake · Nextflow |
+| **Omics & proteomics** | Waters UPLC-QDa · MassLynx · MaxQuant · STRING · Cytoscape |
+| **Data science** | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter |
+| **Infrastructure** | Git · Docker · GitHub Actions · Conda · SLURM · AWS (S3/EC2) |
+| **Structural biology** | PyMOL · AlphaFold2 |
+
+---
+
+## Outside the lab
+
+Music production and acoustic guitar, science documentaries, the history of molecular biology, and creative visual projects. Originally from Bangladesh, currently in Iowa City, IA.
+
+---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kroy3&show_icons=true&theme=default" alt="kroy3 stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroy3&layout=compact&show_icons=true" alt="kroy3 top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kroy3&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 </p>
-
----
-
-## 🧰 Tech Stack
-
-| Category | Tools |
-|---|---|
-| **Languages** | ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true) Python · ![R](https://www.vectorlogo.zone/logos/r-project/r-project-official.svg) R · Bash · SQL |
-| **ML / DL** | PyTorch · PyTorch Geometric · TensorFlow · scikit-learn · HuggingFace Transformers |
-| **Bioinformatics** | Seurat · Scanpy · DESeq2 · STAR · GATK · Snakemake · Nextflow |
-| **Omics & Proteomics** | Waters UPLC-QDa · MassLynx · MaxQuant · STRING · Cytoscape |
-| **Data Science** | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter |
-| **DevOps** | ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg?raw=true) Git · ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg?raw=true) Docker · GitHub Actions · Conda |
-| **Cloud / HPC** | SLURM · AWS (S3/EC2) · Google Colab |
-| **Structural Biology** | PyMOL · GROMACS · AMBER · AlphaFold2 |
-| **OS** | ![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg) Ubuntu · macOS |
-
----
-
-## 📌 Featured Projects
-
-- 🔬 **[OmicsGraphNet](https://github.com/kroy3/OmicsGraphNet)** — Knowledge-enhanced graph attention network for multi-omics PTSD subtyping (manuscript in preparation).
-- 🧠 **[DeepOmicsNet](https://github.com/kroy3/DeepOmicsNet)** — Graph attention network for multi-omics cancer subtyping using TCGA data.
-- 🧬 **[RNAview](https://github.com/kroy3/RNAview)** — Python package for RNA structure visualization (submitted to JOSS).
-- ⚗️ **[ReactionForge](https://github.com/kroy3/ReactionForge)** — Temporal graph network for reaction prediction (submitted to ACS Central Science & AI Chem).
-- 🤖 **[ProteinFunctionTransformer](https://github.com/kroy3/ProteinFunctionTransformer)** — Protein function prediction with pretrained transformers (accepted, *EuroBiotech Journal*).
