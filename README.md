@@ -15,10 +15,9 @@ I  build multi-omics integration methods, and I care about open science, reprodu
 ## Currently
 
 - Developing a QC and analysis pipeline for **single-nucleus RNA-seq in cochlear immunology**, characterizing cell-type-specific transcriptional response and immune cell populations in the inner ear.
-- Extending graph attention and multi-omics integration methods, developed on cancer and chemical-reaction datasets, to inner ear transcriptomics.
-- Learning **PyTorch Geometric**, **Snakemake**, and production scRNA-seq workflows.
 
-<br clear="right" /><p align="center"><img src="multiomics.png" width="620" alt="Multi-omics integration: layered molecular data converging through a graph network into clustered embeddings"/></p>
+
+<br clear="right" /><p align="center"><img src="cochlear_snrna.png" width="620" alt="Multi-omics integration: layered molecular data converging through a graph network into clustered embeddings"/></p>
 
 ## Education
 
