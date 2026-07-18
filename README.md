@@ -17,7 +17,7 @@ I  build multi-omics integration methods, and I care about open science, reprodu
 - Developing a QC and analysis pipeline for **single-nucleus RNA-seq in cochlear immunology**, characterizing cell-type-specific transcriptional response and immune cell populations in the inner ear.
 
 
-<br clear="right" /><p align="center"><img src="cochlear_snrna.png" width="620" alt="Multi-omics integration: layered molecular data converging through a graph network into clustered embeddings"/></p>
+<br clear="right" /><p align="center"><img src="cochlear_snrna_sketch.png" width="420" alt="Multi-omics integration: layered molecular data converging through a graph network into clustered embeddings"/></p>
 
 ## Education
 
