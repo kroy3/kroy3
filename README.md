@@ -1,4 +1,4 @@
-<img src="assets/sketch.png" align="right" width="170" alt="Kushal Raj Roy" />
+<img src="kroy3/sketch.png" align="right" width="170" alt="Kushal Raj Roy" />
 
 # Kushal Raj Roy
 
