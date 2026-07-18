@@ -50,17 +50,6 @@ Full record: [ORCID 0000-0002-4664-7462](https://orcid.org/0000-0002-4664-7462)
 
 ---
 
-## Selected Projects
-
-| Project | Description | Status |
-|---|---|---|
-| **[ProteinFunctionTransformer](https://github.com/kroy3/ProteinFunctionTransformer)** | Protein function prediction with pretrained transformers, with benchmarking of common evaluation pitfalls | Published, *Eurobiotech Journal* |
-| **[DeepOmicsNet](https://github.com/kroy3/DeepOmicsNet)** | Graph attention network for multi-omics cancer subtyping on TCGA | Published output on breast cancer staging |
-| **[ReactionForge](https://github.com/kroy3/ReactionForge)** | Temporal graph network with cross-attention and evidential learning for reaction yield prediction | Accepted, *IJCAST* |
-| **[OmicsGraphNet](https://github.com/kroy3/OmicsGraphNet)** | Knowledge-enhanced graph attention network for multi-omics PTSD subtyping | Manuscript in preparation |
-
----
-
 ## Tools
 
 | | |
