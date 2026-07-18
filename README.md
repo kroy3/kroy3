@@ -71,6 +71,4 @@ Music production and acoustic guitar, science documentaries, the history of mole
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kroy3&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=kroy3&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" /></p>
