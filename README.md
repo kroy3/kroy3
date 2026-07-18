@@ -4,7 +4,7 @@
 
 **Computational biologist.** PhD student in the iBio program at the University of Iowa, working on single-nucleus RNA-seq of the cochlea. Founder of **Genoproteomics**, a precision medicine venture bridging multi-omics, structural biology, and AI.
 
-I build graph deep learning and multi-omics integration methods, and I care about open science, reproducibility, and mentorship.
+I  build multi-omics integration methods, and I care about open science, reproducibility, and mentorship.
 
 [LinkedIn](https://linkedin.com/in/kroy3) · [ORCID](https://orcid.org/0000-0002-4664-7462)
 
