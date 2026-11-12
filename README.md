@@ -21,9 +21,11 @@ I build analysis methods for single-cell and multi-omics data, and I contribute 
 
 ## Open-source contributions
 
+<!-- oss-stats:start -->
 | Merged pull requests | Upstream projects | Tools authored | Packages maintained |
 |:---:|:---:|:---:|:---:|
 | **2** | **2** | **1** | **2** |
+<!-- oss-stats:end -->
 
 | Project | Contribution |
 |---|---|
@@ -99,4 +101,4 @@ Playing guitar, science documentaries, the history of molecular biology, and cre
 
 ---
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=kroy3&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" /></p>
+<p align="left"><img src="profile/stats.svg" alt="GitHub stats" /></p>
