@@ -59,7 +59,7 @@ I build analysis methods for single-cell and multi-omics data, and I contribute 
   *AIP Advances* 16(10), 105006, 2026. [10.1063/5.0317737](https://doi.org/10.1063/5.0317737) · [Code](https://github.com/kroy3/GeoShift)
 
 - **Leveraging Agentic AI in Human-Computer Co-Creation: Cognitive Barriers, Trust Dynamics, and the Directive-Delegation Spectrum.**
-  *Design and Artificial Intelligence*, 100100, 2026. Corresponding author.
+  *Design and Artificial Intelligence*, 100100, 2026. [10.1016/j.daai.2026.100100](https://doi.org/10.1016/j.daai.2026.100100)
 
 - **Protein Function Prediction with Pretrained Transformers: Performance, Pitfalls, and Practical Guidance.**
   *Eurobiotech Journal*, 2026. [10.2478/ebtj-2026-0005](https://doi.org/10.2478/ebtj-2026-0005) · Scopus-indexed
