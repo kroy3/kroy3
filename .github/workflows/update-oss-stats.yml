@@ -1,9 +1,14 @@
-name: Update open-source stats
+name: Update profile stats
 
 on:
   schedule:
     - cron: "17 6 * * *"   # daily, 06:17 UTC
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-oss-stats.yml"
+      - "scripts/**"
 
 permissions:
   contents: write
@@ -13,17 +18,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Recount merged pull requests
         env:
           GH_TOKEN: ${{ github.token }}
         run: python3 scripts/update_oss_stats.py
-      - name: Commit if the numbers changed
+
+      # Renders the stats card into the repository, so the README no longer
+      # depends on the shared github-readme-stats.vercel.app service.
+      - name: Generate stats card
+        id: card
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Commit if anything changed
         run: |
-          if git diff --quiet README.md; then
+          if [ "${{ steps.card.outcome }}" != "success" ]; then
+            echo "Stats card could not be generated; keeping the previous one."
+            git checkout -- profile/stats.svg 2>/dev/null || rm -f profile/stats.svg
+          fi
+          git add README.md
+          [ -f profile/stats.svg ] && git add profile/stats.svg
+          if git diff --cached --quiet; then
             echo "No change."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update open-source stats" README.md
+          git commit -m "Update profile stats"
           git push
