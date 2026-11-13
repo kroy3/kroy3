@@ -23,10 +23,11 @@ I build analysis methods for single-cell and multi-omics data, and I contribute 
 
 | Merged pull requests | Upstream projects | Tools authored | Packages maintained |
 |:---:|:---:|:---:|:---:|
-| **2** | **2** | **1** | **2** |
+| **3** | **3** | **1** | **2** |
 
 | Project | Contribution |
 |---|---|
+| [nf-core/scdownstream](https://github.com/nf-core/scdownstream) | Added support for **custom CellTypist model files** (local paths or URLs) in the `--celltypist_model` parameter of the single-cell downstream analysis pipeline ([#384](https://github.com/nf-core/scdownstream/pull/384)) |
 | [galaxyproject/tools-iuc](https://github.com/galaxyproject/tools-iuc) | Author of the **scDblFinder** Galaxy tool for doublet detection in single-cell RNA-seq ([#8883](https://github.com/galaxyproject/tools-iuc/pull/8883)) |
 | [IGS/gEAR](https://github.com/IGS/gEAR) | Added a **single-nucleus RNA-seq dataset type** to the gEAR gene expression portal ([#1363](https://github.com/IGS/gEAR/pull/1363)) |
 
