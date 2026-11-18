@@ -1,5 +1,3 @@
-#<img src="sketch.png" align="right" width="170" alt="Kushal Raj Roy" />
-
 # Kushal Raj Roy
 
 I am a **computational biologist** and a PhD student in the iBio program at the University of Iowa, where I study the cochlea using single-nucleus RNA-seq. I also founded **Genoproteomics**, a precision medicine venture that brings together multi-omics, structural biology, and AI.
