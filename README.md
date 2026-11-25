@@ -66,13 +66,11 @@ I build analysis methods for single-cell and multi-omics data, and I contribute 
 - **miRNA-mRNA Multi-omics Integration in Breast Cancer Staging.**
   *Advances in Biomarker Sciences and Technology* 9(1), 70-82. [10.1016/j.abst.2026.06.003](https://doi.org/10.1016/j.abst.2026.06.003)
 
-**Accepted / in press**
-
 - **ReactionForge: A Temporal Graph Network for Suzuki-Miyaura Cross-Coupling Yield Prediction.**
-  *International Journal of Complexity in Applied Science and Technology* (Inderscience), 2026.
+  *International Journal of Complexity in Applied Science and Technology* (Inderscience), 2026, forthcoming. [10.1504/IJCAST.2026.10079754](https://doi.org/10.1504/IJCAST.2026.10079754) · [Code](https://github.com/kroy3/ReactionForge)
 
-- **Machine Learning-Guided Catalyst Selection Reveals Nickel's Advantages Over Palladium in Suzuki-Miyaura Cross-Coupling.**
-  *International Journal of Complexity in Applied Science and Technology* (Inderscience), 2026.
+- **Machine Learning Driven Catalyst Selection: Identifying Nickel's Advantage Over Palladium for Suzuki Miyaura Cross Coupling.**
+  *International Journal of Complexity in Applied Science and Technology* (Inderscience), 2026, forthcoming. [10.1504/IJCAST.2026.10079563](https://doi.org/10.1504/IJCAST.2026.10079563)
 
 Full record: [ORCID 0000-0002-4664-7462](https://orcid.org/0000-0002-4664-7462)
 
