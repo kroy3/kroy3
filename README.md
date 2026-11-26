@@ -21,12 +21,12 @@ I build analysis methods for single-cell and multi-omics data, and I contribute 
 
 | Merged pull requests | Upstream projects | Tools authored | Packages maintained |
 |:---:|:---:|:---:|:---:|
-| **7** | **4** | **1** | **2** |
+| **8** | **4** | **1** | **2** |
 
 | Project | Contribution |
 |---|---|
 | [scverse/scanpy](https://github.com/scverse/scanpy) | Made `sc.tl.filter_rank_genes_groups` **raise a clear error when ranked genes are missing from `adata`** ([#4497](https://github.com/scverse/scanpy/pull/4497), fixes [#1487](https://github.com/scverse/scanpy/issues/1487)) |
-| [nf-core/scdownstream](https://github.com/nf-core/scdownstream) | Added support for **custom CellTypist model files** (local paths or URLs) in the `--celltypist_model` parameter of the single-cell downstream analysis pipeline ([#384](https://github.com/nf-core/scdownstream/pull/384)) |
+| [nf-core/scdownstream](https://github.com/nf-core/scdownstream) | Added support for **custom CellTypist model files** (local paths or URLs) in the `--celltypist_model` parameter of the single-cell downstream analysis pipeline ([#384](https://github.com/nf-core/scdownstream/pull/384)); added an optional **gene annotation step** that adds biotype and chromosome to the final AnnData, from a GTF or MyGene.info ([#394](https://github.com/nf-core/scdownstream/pull/394), closes [#173](https://github.com/nf-core/scdownstream/issues/173)) |
 | [galaxyproject/tools-iuc](https://github.com/galaxyproject/tools-iuc) | Author of the **scDblFinder** Galaxy tool for doublet detection in single-cell RNA-seq ([#8883](https://github.com/galaxyproject/tools-iuc/pull/8883)); fixed a **1-second HTTP read timeout** in the sra-tools wrappers that could make SRA downloads fail ([#8977](https://github.com/galaxyproject/tools-iuc/pull/8977)); made the MultiQC wrapper **stage Qualimap RNA-seq output and pair Qualimap files by sample** ([#8975](https://github.com/galaxyproject/tools-iuc/pull/8975)); exposed **LSD2 molecular-dating options** (`--date-tip`, `--date-ci`, and others) in the IQ-TREE wrapper for both date sources ([#8978](https://github.com/galaxyproject/tools-iuc/pull/8978)) |
 | [IGS/gEAR](https://github.com/IGS/gEAR) | Added a **single-nucleus RNA-seq dataset type** to the gEAR gene expression portal ([#1363](https://github.com/IGS/gEAR/pull/1363)) |
 
